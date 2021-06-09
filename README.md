@@ -1,3 +1,5 @@
+![github stats](https://github-readme-stats.vercel.app/api?username=prokube&theme=dracula&show_icons=true)
+
 ## Hey!
 
 I just realized this is a thing after seeing lexiolvsu's account, so I thought I should make one of these.
