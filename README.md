@@ -1,4 +1,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=prokube&theme=dracula&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prokube&theme=dracula&margin-w=15&margin-h=15&column=7)]()
 
 ## Hey!
 
