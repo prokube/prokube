@@ -1,4 +1,4 @@
-<a href="github.com/prokube">
+<a href="https://github.com/prokube">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prokube" alt="Profile Views Count">
 </p>
